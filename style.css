@@ -18,3 +18,8 @@ header {
             margin: 0 1.5cm;
             font-size: 14px;
             }
+            img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
