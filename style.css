@@ -18,7 +18,7 @@ header {
             margin: 0 1.5cm;
             font-size: 14px;
             }
-            .botao-caixa1 {
+            .botao-caixa {
       display: block;
       background-color: #2b723d;
       color: rgb(11, 43, 20);
@@ -35,21 +35,4 @@ header {
       border-radius: 8px;
       margin-bottom: 10px;
     }
-     .botao-caixa2 {
-      display: block;
-      background-color: #2b723d;
-      color: rgb(255, 255, 255);
-      padding: 15px;
-      margin: 10px 0;
-      border-radius: 8px;
-      cursor: pointer;
-      font-family: sans-serif;
-    }
-    .conteudo {
-      display: none;
-      background-color: #ffffff;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 10px;
-    }
-           
+    
